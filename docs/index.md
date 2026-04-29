@@ -6,7 +6,7 @@
 
 <div style="text-align: center; margin: 1.5rem 0;">
   <p style="font-size: 1.3em; font-style: italic; font-weight: 500;">"I'm Jakub, from qoliber. Let's fix Magento — nobody else is going to do it."</p>
-  <p><strong><a href="https://www.linkedin.com/in/jakubwinkler/">Jakub Winkler</a></strong> — Creator of GMAD, Founder of <a href="https://qoliber.com">qoliber</a> | <a href="https://www.linkedin.com/in/jakubwinkler/">Connect on LinkedIn :fontawesome-brands-linkedin:</a></p>
+  <p><strong><a href="https://www.linkedin.com/in/jakubwinkler/">Jakub Winkler</a></strong> — The MAD man behind the GMAD project, Founder of <a href="https://qoliber.com">qoliber</a> | <a href="https://www.linkedin.com/in/jakubwinkler/">Connect on LinkedIn :fontawesome-brands-linkedin:</a></p>
 </div>
 
 **The open-source project to decouple, modernize, and slim down Magento 2.**
