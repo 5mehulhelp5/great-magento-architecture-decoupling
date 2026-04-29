@@ -116,12 +116,13 @@ Each report covers: what the module does, who depends on it, who it depends on, 
 
 ## Project Info
 
-<div style="display: flex; align-items: center; gap: 2rem; margin: 2rem 0; padding: 1.5rem; border-left: 4px solid #ff6d00; background: rgba(255, 109, 0, 0.05); border-radius: 0 8px 8px 0;">
-  <img src="gmad_jakub.png" alt="Jakub Winkler" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
-  <div>
-    <p style="font-size: 1.3em; font-style: italic; margin: 0 0 0.5rem 0; font-weight: 500;">"I'm Jakub, from Qoliber. Let's fix Magento — nobody else is going to do it."</p>
-    <p style="margin: 0;"><strong><a href="https://www.linkedin.com/in/jakubwinkler/">Jakub Winkler</a></strong> — Creator of GMAD, Founder of <a href="https://qoliber.com">Qoliber</a> | <a href="https://www.linkedin.com/in/jakubwinkler/" style="text-decoration: none;">Connect on LinkedIn</a></p>
-  </div>
+<div style="margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="gmad_jakub.png" alt="GMAD - Great Magento Architecture Decoupling" style="width: 100%; display: block;">
+</div>
+
+<div style="text-align: center; margin: 1.5rem 0;">
+  <p style="font-size: 1.3em; font-style: italic; font-weight: 500;">"I'm Jakub, from Qoliber. Let's fix Magento — nobody else is going to do it."</p>
+  <p><strong><a href="https://www.linkedin.com/in/jakubwinkler/">Jakub Winkler</a></strong> — Creator of GMAD, Founder of <a href="https://qoliber.com">Qoliber</a> | <a href="https://www.linkedin.com/in/jakubwinkler/">Connect on LinkedIn :fontawesome-brands-linkedin:</a></p>
 </div>
 
 **License:** Open source, same as Magento 2 (OSL-3.0 / AFL-3.0)
