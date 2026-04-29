@@ -16,8 +16,23 @@
 
 [Contribute on GitHub :fontawesome-brands-github:](https://github.com/qoliber/great-magento-architecture-decoupling){ .md-button .md-button--primary }
 
-!!! tip "Want to contribute?"
-    This is a community project. All discussions, ideas, and contributions happen on GitHub. **[Open an Issue](https://github.com/qoliber/great-magento-architecture-decoupling/issues)** to discuss, or **[Submit a Pull Request](https://github.com/qoliber/great-magento-architecture-decoupling/pulls)** with your changes. Pick any workstream from the [Implementation Plan](IMPLEMENTATION_PLAN.md) and start.
+---
+
+## Step 1: Where Do We Contribute?
+
+!!! warning "We need your input before we start shipping code"
+    The research is done. The plan is ready. **But where should the actual PRs go?**
+
+    **[:fontawesome-brands-github: Join the discussion on GitHub](https://github.com/qoliber/great-magento-architecture-decoupling/issues/1){ .md-button }**
+
+| Option | Target | Pros | Cons |
+|--------|--------|------|------|
+| **A** | **Magento Open Source** (adobe/magento2) | Ships to every Magento install | Slow review, Adobe's priorities |
+| **B** | **MageOS** | Community-driven, faster reviews | Smaller install base |
+| **C** | **GMAD standalone** | Ship fast, no gatekeepers | Fragmentation risk |
+| **D** | **All of the above** | GMAD develops, then submits upstream | Most work, maximum reach |
+
+**Have an opinion? [Tell us in Issue #1.](https://github.com/qoliber/great-magento-architecture-decoupling/issues/1)** This decision shapes everything.
 
 ---
 
