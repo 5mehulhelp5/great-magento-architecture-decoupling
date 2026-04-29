@@ -99,3 +99,4 @@ nav:
   - Framework Modernization:
     - PHP 8.4 Opportunities: magento_framework_modernization.md
     - View & Layout System: magento_view_modernization.md
+  - ":fontawesome-solid-heart: Support": support.md
