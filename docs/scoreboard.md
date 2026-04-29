@@ -77,6 +77,11 @@ Got the Magento Functional Testing Framework running with successful admin login
 
 **Reference PR:** [github.com/jakwinkler/magento2/pull/1](https://github.com/jakwinkler/magento2/pull/1)
 
+**Commits:**
+
+- [Decouple Catalog module from Bundle, Configurable, Downloadable product types](https://github.com/jakwinkler/magento2/pull/1/commits/1d761e436a83421fee3bff1870089520049b8a56)
+- [Add decoupling documentation](https://github.com/jakwinkler/magento2/pull/1/commits/2bc1dc4a7d3a11b70408c7bbd68a5e2fbf456a8e)
+
 ### Modules Changed
 
 | Module | What Changed |
