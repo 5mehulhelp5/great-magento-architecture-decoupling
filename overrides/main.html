@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title }} - GMAD">
+  <meta property="og:description" content="{{ config.site_description }}">
+  <meta property="og:image" content="https://gmad.qoliber.com/gmad_jakub.png">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:site_name" content="GMAD: Great Magento Architecture Decoupling">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }} - GMAD">
+  <meta name="twitter:description" content="{{ config.site_description }}">
+  <meta name="twitter:image" content="https://gmad.qoliber.com/gmad_jakub.png">
+
+  <meta name="author" content="Jakub Winkler, qoliber">
+  <meta name="keywords" content="Magento 2, decoupling, architecture, PHP 8.4, module removal, performance, open source, Magento modules, MageOS, eCommerce">
+  <link rel="canonical" href="{{ page.canonical_url }}">
+{% endblock %}

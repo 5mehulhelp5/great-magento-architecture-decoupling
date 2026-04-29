@@ -30,6 +30,7 @@ theme:
     - search.suggest
     - search.highlight
     - toc.follow
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
 
