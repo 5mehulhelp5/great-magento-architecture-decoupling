@@ -69,6 +69,7 @@ extra:
 
 nav:
   - Home: index.md
+  - "MF** MFTF!": mftf.md
   - Implementation Plan: IMPLEMENTATION_PLAN.md
   - Module Disable Groups: disable_groups.md
   - Decoupling Reports:
