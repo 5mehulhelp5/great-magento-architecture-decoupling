@@ -1,0 +1,95 @@
+site_name: "GMAD: Great Magento Architecture Decoupling"
+site_description: "The community project to decouple, modernize, and slim down Magento 2. 221 modules scanned. 121 removable. 12 parallel workstreams. Join us."
+site_url: https://gmad.qoliber.com/
+repo_url: https://github.com/qoliber/great-magento-architecture-decoupling
+repo_name: qoliber/great-magento-architecture-decoupling
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - tables
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/qoliber/great-magento-architecture-decoupling
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jakubwinkler/
+
+nav:
+  - Home: index.md
+  - Implementation Plan: IMPLEMENTATION_PLAN.md
+  - Module Disable Groups: disable_groups.md
+  - Decoupling Reports:
+    - Catalog & Product Types:
+      - Configurable Product: decoupling/configurable_product.md
+      - Downloadable Product: decoupling/downloadable_product.md
+      - Swatches & SendFriend: decoupling/swatches_sendfriend.md
+      - MSRP / Multishipping / MysqlMq: decoupling/msrp_multishipping_mysqlmq.md
+    - Inventory & Stock:
+      - CatalogInventory: decoupling/catalog_inventory.md
+    - Sales & Payment:
+      - Sales / Shipping / Payment: decoupling/sales_shipping_payment.md
+      - Payment-Sales Circular: decoupling/payment_sales_circular.md
+    - Customer Features:
+      - Newsletter: decoupling/newsletter.md
+      - Wishlist: decoupling/wishlist.md
+      - Review: decoupling/review.md
+      - Login As Customer: decoupling/login_as_customer.md
+    - Infrastructure:
+      - Cron & Message Queue: decoupling/cron_and_message_queue.md
+      - RequireJs & Ui Removal: decoupling/requirejs_ui_removal.md
+      - Media Modules: decoupling/media_modules.md
+      - APM: decoupling/application_performance_monitor.md
+      - Misc (RelatedProductGraphQl, ReleaseNotification): decoupling/related_product_graphql_release_notification.md
+    - Weee (FPT): decoupling/weee.md
+    - Failing Tests Checklist: decoupling/FAILING_TESTS_CHECKLIST.md
+  - Framework Modernization:
+    - PHP 8.4 Opportunities: magento_framework_modernization.md
+    - View & Layout System: magento_view_modernization.md
