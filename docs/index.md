@@ -1,5 +1,14 @@
 # GMAD: Great Magento Architecture Decoupling
 
+<div style="margin: 1.5rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="gmad_jakub.png" alt="GMAD - Great Magento Architecture Decoupling" style="width: 100%; display: block;">
+</div>
+
+<div style="text-align: center; margin: 1.5rem 0;">
+  <p style="font-size: 1.3em; font-style: italic; font-weight: 500;">"I'm Jakub, from qoliber. Let's fix Magento — nobody else is going to do it."</p>
+  <p><strong><a href="https://www.linkedin.com/in/jakubwinkler/">Jakub Winkler</a></strong> — Creator of GMAD, Founder of <a href="https://qoliber.com">qoliber</a> | <a href="https://www.linkedin.com/in/jakubwinkler/">Connect on LinkedIn :fontawesome-brands-linkedin:</a></p>
+</div>
+
 **The open-source project to decouple, modernize, and slim down Magento 2.**
 
 [Contribute on GitHub :fontawesome-brands-github:](https://github.com/qoliber/great-magento-architecture-decoupling){ .md-button .md-button--primary }
@@ -116,14 +125,7 @@ Each report covers: what the module does, who depends on it, who it depends on, 
 
 ## Project Info
 
-<div style="margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
-  <img src="gmad_jakub.png" alt="GMAD - Great Magento Architecture Decoupling" style="width: 100%; display: block;">
-</div>
-
-<div style="text-align: center; margin: 1.5rem 0;">
-  <p style="font-size: 1.3em; font-style: italic; font-weight: 500;">"I'm Jakub, from Qoliber. Let's fix Magento — nobody else is going to do it."</p>
-  <p><strong><a href="https://www.linkedin.com/in/jakubwinkler/">Jakub Winkler</a></strong> — Creator of GMAD, Founder of <a href="https://qoliber.com">Qoliber</a> | <a href="https://www.linkedin.com/in/jakubwinkler/">Connect on LinkedIn :fontawesome-brands-linkedin:</a></p>
-</div>
+**Created by:** [Jakub Winkler](https://www.linkedin.com/in/jakubwinkler/) at [qoliber](https://qoliber.com)
 
 **License:** Open source, same as Magento 2 (OSL-3.0 / AFL-3.0)
 
