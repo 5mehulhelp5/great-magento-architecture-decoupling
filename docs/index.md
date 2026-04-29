@@ -4,9 +4,12 @@
   <img src="gmad_jakub.png" alt="GMAD - Great Magento Architecture Decoupling" style="width: 100%; display: block;">
 </div>
 
-<div style="text-align: center; margin: 1.5rem 0;">
-  <p style="font-size: 1.3em; font-style: italic; font-weight: 500;">"I'm Jakub, from qoliber. Let's fix Magento — nobody else is going to do it."</p>
-  <p><strong><a href="https://www.linkedin.com/in/jakubwinkler/">Jakub Winkler</a></strong> — The MAD man behind the GMAD project, Founder of <a href="https://qoliber.com">qoliber</a> | <a href="https://www.linkedin.com/in/jakubwinkler/">Connect on LinkedIn :fontawesome-brands-linkedin:</a></p>
+<div style="text-align: center; margin: 1.5rem 0;" markdown>
+
+*"I'm Jakub, from qoliber. Let's fix Magento — nobody else is going to do it."*{ style="font-size: 1.3em; font-weight: 500;" }
+
+**[Jakub Winkler](https://www.linkedin.com/in/jakubwinkler/)** — The MAD man behind the GMAD project, Founder of [qoliber](https://qoliber.com) | [Connect on LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/in/jakubwinkler/)
+
 </div>
 
 **The open-source project to decouple, modernize, and slim down Magento 2.**
