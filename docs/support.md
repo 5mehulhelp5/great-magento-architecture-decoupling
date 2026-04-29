@@ -4,6 +4,8 @@ GMAD is and will always be **free and open source**. Every report, every line of
 
 But let's be real: this kind of deep architectural work takes serious time. Scanning 221 modules, mapping every dependency, writing implementation plans, testing changes — that's not a weekend side project. It's months of focused engineering.
 
+**We know you're busy.** By supporting us, you support every initiative we've started and everything we stand for — a cleaner, faster, more maintainable Magento for everyone.
+
 ---
 
 ## How We Keep the Lights On
