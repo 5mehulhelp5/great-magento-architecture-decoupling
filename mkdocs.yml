@@ -55,12 +55,14 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-0WZFX9JPLM
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/qoliber/great-magento-architecture-decoupling
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jakubwinkler/
+    - icon: fontawesome/solid/globe
+      link: https://qoliber.com
 
 nav:
   - Home: index.md
