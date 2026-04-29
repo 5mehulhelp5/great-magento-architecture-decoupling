@@ -20,7 +20,7 @@ A comprehensive performance optimization toolkit that makes Magento stores measu
 
 ### Trident Velocity Engine
 
-Our flagship performance engine for Magento 2. Deep server-side optimizations that complement the architectural improvements GMAD is working toward.
+An HTTP cache proxy designed specifically for eCommerce. Sits in front of your Magento store and serves cached pages at lightning speed — no Varnish complexity, no full-page-cache headaches. Built to understand eCommerce patterns like cart state, customer sessions, and dynamic pricing.
 
 [:fontawesome-solid-bolt: Learn more about Trident](https://qoliber.com/trident-velocity-engine){ .md-button }
 
